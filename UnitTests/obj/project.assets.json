@@ -959,24 +959,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vladi\\.nuget\\packages\\": {},
-    "F:\\Software Stuff\\Microsoft Visual Studio\\SDK\\NuGetPackages": {}
+    "C:\\Users\\dasha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programming\\repos\\testing042025\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\programming\\redesigned-waffle\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "F:\\Programming\\repos\\testing042025\\UnitTests\\UnitTests.csproj",
-      "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "F:\\Programming\\repos\\testing042025\\UnitTests\\obj\\",
+      "projectPath": "C:\\programming\\redesigned-waffle\\UnitTests\\UnitTests.csproj",
+      "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
+      "outputPath": "C:\\programming\\redesigned-waffle\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "F:\\Software Stuff\\Microsoft Visual Studio\\SDK\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -990,8 +985,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj": {
-              "projectPath": "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj"
+            "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj": {
+              "projectPath": "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj"
             }
           }
         }
@@ -1045,7 +1040,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Programming\\repos\\testing042025\\Task1.Tests\\Task1.Tests.csproj": {}
+    "C:\\programming\\redesigned-waffle\\Task1.Tests\\Task1.Tests.csproj": {}
   },
   "projects": {
-    "F:\\Programming\\repos\\testing042025\\Task1.Tests\\Task1.Tests.csproj": {
+    "C:\\programming\\redesigned-waffle\\Task1.Tests\\Task1.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programming\\repos\\testing042025\\Task1.Tests\\Task1.Tests.csproj",
+        "projectUniqueName": "C:\\programming\\redesigned-waffle\\Task1.Tests\\Task1.Tests.csproj",
         "projectName": "Task1.Tests",
-        "projectPath": "F:\\Programming\\repos\\testing042025\\Task1.Tests\\Task1.Tests.csproj",
-        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "F:\\Programming\\repos\\testing042025\\Task1.Tests\\obj\\",
+        "projectPath": "C:\\programming\\redesigned-waffle\\Task1.Tests\\Task1.Tests.csproj",
+        "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
+        "outputPath": "C:\\programming\\redesigned-waffle\\Task1.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "F:\\Software Stuff\\Microsoft Visual Studio\\SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\Programming\\repos\\testing042025\\Task1\\Task1.csproj": {
-                "projectPath": "F:\\Programming\\repos\\testing042025\\Task1\\Task1.csproj"
+              "C:\\programming\\redesigned-waffle\\Task1\\Task1.csproj": {
+                "projectPath": "C:\\programming\\redesigned-waffle\\Task1\\Task1.csproj"
               },
-              "F:\\Programming\\repos\\testing042025\\UnitTests\\UnitTests.csproj": {
-                "projectPath": "F:\\Programming\\repos\\testing042025\\UnitTests\\UnitTests.csproj"
+              "C:\\programming\\redesigned-waffle\\UnitTests\\UnitTests.csproj": {
+                "projectPath": "C:\\programming\\redesigned-waffle\\UnitTests\\UnitTests.csproj"
               }
             }
           }
@@ -90,25 +86,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Programming\\repos\\testing042025\\Task1\\Task1.csproj": {
+    "C:\\programming\\redesigned-waffle\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programming\\repos\\testing042025\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\programming\\redesigned-waffle\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "F:\\Programming\\repos\\testing042025\\Task1\\Task1.csproj",
-        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "F:\\Programming\\repos\\testing042025\\Task1\\obj\\",
+        "projectPath": "C:\\programming\\redesigned-waffle\\Task1\\Task1.csproj",
+        "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
+        "outputPath": "C:\\programming\\redesigned-waffle\\Task1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "F:\\Software Stuff\\Microsoft Visual Studio\\SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,8 +114,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj": {
-                "projectPath": "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj"
+              "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj"
               }
             }
           }
@@ -159,25 +151,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Programming\\repos\\testing042025\\UnitTests\\UnitTests.csproj": {
+    "C:\\programming\\redesigned-waffle\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programming\\repos\\testing042025\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\programming\\redesigned-waffle\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "F:\\Programming\\repos\\testing042025\\UnitTests\\UnitTests.csproj",
-        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "F:\\Programming\\repos\\testing042025\\UnitTests\\obj\\",
+        "projectPath": "C:\\programming\\redesigned-waffle\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
+        "outputPath": "C:\\programming\\redesigned-waffle\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "F:\\Software Stuff\\Microsoft Visual Studio\\SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -191,8 +179,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj": {
-                "projectPath": "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj"
+              "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj"
               }
             }
           }
@@ -246,25 +234,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj": {
+    "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj",
+        "projectUniqueName": "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "F:\\Programming\\repos\\testing042025\\Utils\\Utils.csproj",
-        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "F:\\Programming\\repos\\testing042025\\Utils\\obj\\",
+        "projectPath": "C:\\programming\\redesigned-waffle\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
+        "outputPath": "C:\\programming\\redesigned-waffle\\Utils\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "F:\\Software Stuff\\Microsoft Visual Studio\\SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -311,7 +295,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
