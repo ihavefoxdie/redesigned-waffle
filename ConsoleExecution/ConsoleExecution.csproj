@@ -2,6 +2,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Task1\Task1.csproj" />
+    <ProjectReference Include="..\Task2\Task2.csproj" />
+    <ProjectReference Include="..\Task3\Task3.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
