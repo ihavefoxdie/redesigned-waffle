@@ -1,5 +1,6 @@
 using System;
 using UnitTests;
+using Utils;
 
 namespace Task1.Tests;
 
